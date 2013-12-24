@@ -1,0 +1,24 @@
+List of things still needed with approximate dimensions:
+
+Various kinds of lasers/projectiles
+	approximately 10x10, 10x20
+	lasers (think Star Wars) are better as 10x20 whereas other projectiles would be better as 10x10
+	
+Various kinds of turrets
+	maybe 50x50?
+	
+Background image/images
+	In the future I can implement a world map, and multiple images can be used to generate variety in 
+	the world...not a high priority now
+	
+Shields
+	Different colored shields for different kinds of ships
+	Blue or cyan
+	green
+	purple
+	these can be either oval or circle shaped.  I believe I can scale a circle lengthwise to make an oval if
+	need be, depending on the unit
+	
+	
+This file can be downloaded and reuploaded to replace to old file as things are added.  Make sure file extension is .txt
+when uploading

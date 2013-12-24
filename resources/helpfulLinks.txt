@@ -1,0 +1,21 @@
+
+Info about double buffering
+http://www.gamespp.com/java/gameProgrammingTutorial04.html
+
+
+Sprite Animation
+http://uap.unnes.ac.id/ebook/electronic%20book%202/Teach%20Yourself%20Internet%20Game%20Programming%20with%20Java%20in%2021%20Days/CH6.HTM#TheSpriteClass
+
+Collision Detection
+http://gamedevelopment.tutsplus.com/tutorials/collision-detection-with-the-separating-axis-theorem--gamedev-169
+http://www.metanetsoftware.com/technique/tutorialA.html
+
+Everything about Quadtrees
+http://gamedevelopment.tutsplus.com/tutorials/quick-tip-use-quadtrees-to-detect-likely-collisions-in-2d-space--gamedev-374
+
+
+Rendering Quality stuff
+http://www.apl.jhu.edu/~hall/java/Java2D-Tutorial.html#Java2D-Tutorial-Transforms-Example1
+
+Eclipse git setup
+http://wiki.eclipse.org/EGit/User_Guide
